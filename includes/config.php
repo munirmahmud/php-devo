@@ -13,4 +13,8 @@ catch (PDOException $e)
 {
 exit("Error: " . $e->getMessage());
 }
+
+  //Admin Credentials
+  //admin 
+  //Test@12345
 ?>
